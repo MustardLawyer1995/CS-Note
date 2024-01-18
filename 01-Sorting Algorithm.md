@@ -1,6 +1,6 @@
 ## Nỗi ám ảnh của các Coder: Thuật toán sắp xếp (Sorting Algorithm).
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### *My grandmother run faster than you code.............*
+#### *My grandmother runs faster than you code.............*
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Học lập trình trong ngành Công nghệ thông tin mà không biết Cấu trúc dữ liệu và giải thuật (CTDL & GT) tức là chưa thật sự học. Học CTDL & GT thì chắc chắn phải học các thuật toán sắp xếp cơ bản. Trong bài viết này, mình sẽ đi sâu hơn, nhìn tổng quan hơn về bài toán sắp xếp và ý nghĩa của nó trong cuộc sống.
 ### Bối cảnh: 
