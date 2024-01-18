@@ -1,4 +1,4 @@
-# Kính thưa quan viên hai họ: Sorting Algorithm và các Coder.
+# Nỗi ám ảnh của các Coder: Thuật toán sắp xếp (Sorting Algorithm).
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### *My grandmother run faster than you code.............*
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -11,3 +11,32 @@ Bạn thử tưởng tượng xem, nhìn vào danh sách sinh viên theo mã s�
 - Việc sắp xếp dữ liệu sẽ giúp ta tìm kiếm nhanh hơn và hỗ trợ rất nhiều cho các bài toán khác. Bài toán sắp xếp là 1 nền tảng quan trọng trong Khoa học máy tính.
 - Từ những nhu cầu trên, chúng ta nghiên cứu những cách thức, phương pháp để sắp xếp dữ liệu, từ đó ra đời rất nhiều thuật toán sắp xếp.
 - Một số thuật toán nổi tiếng, thông dụng hiện nay như: Bubble Sort, Interchange Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort.
+## Mục tiêu của bài viết
+- Mình sẽ trình bày tổng quan các thuật toán sắp xếp dựa vào sự thực nghiệm. Mình sẽ không đào sâu về nền tảng lý thuyết vì những điều này đã nói rất nhiều trên sách vở, tài liệu.
+- Bài viết trình bày về việc test các thuật toán sắp xếp và đánh giá chúng. Ngoài ra bài viết còn nói một số khía cạnh cần quan tâm khi sử dụng thuật toán sắp xếp.
+## Điểm danh các thuật toán sắp xếp 
+- 20 thuật toán sắp xếp sẽ được lên dĩa, chưa kể mỗi thuật toán có thể bao gồm nhiều phương pháp và cấu hình ==> tổng cộng là 24 thuật toán. Danh sách 24 thuật toán như sau:
+   - BlockMerge Sort
+   - BST Sort (dựa trên Binary Search Tree)
+   - Bubble Sort
+   - Counting Sort
+   - Flash Sort
+   - Heap Sort
+   - Insertion Sort
+   - Interchange Sort
+   - Intro Sort (std::sort)
+   - Merge Sort (cpp std – std::stable_sort)
+   - Merge Sort (top-down)
+   - Merge Sort (bottom-up)
+   - Noname Sort
+   - Super Noname Sort --> đây là sản phẩm của mình, cải tiến dựa trên 1 ý tưởng rất hay
+   - Quick Sort
+   - Quick Sort (3-way)
+   - Radix Exchange Sort
+   - Radix Sort 4
+   - Radix Sort 8
+   - Radix Sort 16
+   - Selection Sort
+   - Shell Sort
+   - Smooth Sort
+   - Tim Sort
